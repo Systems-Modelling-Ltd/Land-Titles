@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1nbgo2QUsCSO_qxye1Hs3iJm7quHqAYA4">
+	<name>hhhhh</name>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="string" name="COL5873A053A68BB10A">
+			<displayName>description</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL5873A053A63961C8">
+			<displayName>id</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL5873A053A6A78811">
+			<displayName>dick-len</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL5873A053A61C60DD">
+			<displayName>address</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL5873A053A66B2111">
+			<displayName>size</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL5873A053A67A5E14">
+			<displayName>acres</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL5873A053A6B3CF48">
+			<displayName>owner</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_17E84D1D463B95F4DE78">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40000000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00C73C8CEC3B95F4DE78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17E84D1D463B95F4DE78</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_231DF23E5F3B95F4DE78</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2110FB6CED3B95F4DE77">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_231DF23E5F3B95F4DE78">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40000000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17B6F662493B95F4DE77">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0906EF07C43B95F4DE77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17B6F662493B95F4DE77</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2110FB6CED3B95F4DE77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="5873A051F8000001">
+		<name>e98e23b0-ba5b-4ed6-9ef0-4e500dc93217-1st Letter-b368b76f-eac0-4f8c-b062-eb3d43e06805.kml</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0906EF07C43B95F4DE77</styleUrl>
+		<Placemark id="5873A051F8000002">
+			<name>WK249198</name>
+			<description><![CDATA[<div>description:<br></div><div>id: WK249198<br></div><div>dick-len: Penis Size Matters<br></div><div>address: Land to the north of Watling Street, Dordon, Warwickshire, CV9 2PZ<br></div><div>size:<br></div><div>acres:<br></div><div>owner: VALERIE KAY TAYLOR<br></div>]]></description>
+			<styleUrl>#__managed_style_00C73C8CEC3B95F4DE78</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL5873A053A68BB10A"></SimpleData>
+					<SimpleData name="COL5873A053A63961C8">WK249198</SimpleData>
+					<SimpleData name="COL5873A053A6A78811">Penis Size Matters</SimpleData>
+					<SimpleData name="COL5873A053A61C60DD">Land to the north of Watling Street, Dordon, Warwickshire, CV9 2PZ</SimpleData>
+					<SimpleData name="COL5873A053A66B2111"></SimpleData>
+					<SimpleData name="COL5873A053A67A5E14"></SimpleData>
+					<SimpleData name="COL5873A053A6B3CF48">VALERIE KAY TAYLOR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.605804,52.595839,0 -1.605815,52.595322,0 -1.60588,52.595251,0 -1.605278,52.59508,0 -1.605184,52.59505600000001,0 -1.605113,52.595036,0 -1.605056,52.595026,0 -1.605,52.595012,0 -1.604897,52.594978,0 -1.604852,52.595384,0 -1.604951,52.595538,0 -1.604948,52.59562,0 -1.605249,52.59568699999999,0 -1.605427,52.595733,0 -1.605804,52.595839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0EF70F98EF3B95F5B260">
+			<name>here</name>
+			<LookAt>
+				<longitude>-1.605529660366389</longitude>
+				<latitude>52.59546017247025</latitude>
+				<altitude>80.11620103964009</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>30</gx:fovy>
+				<range>292.8096587021719</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0906EF07C43B95F4DE77</styleUrl>
+			<Point>
+				<coordinates>-1.605350691961973,52.59541522396056,80.76478771748231</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
